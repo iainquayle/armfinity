@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <>
       <div>
-        hey mom
+        im your nephew not your mom
       </div>
     </>
   );
