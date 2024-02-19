@@ -1,28 +1,6 @@
+armfinity
 
-dist
-.solid
-.output
-.vercel
-.netlify
-netlify
+bin
 
-# Environment
-.env
-.env*.local
+go.sum
 
-# dependencies
-/node_modules
-
-# IDEs and editors
-/.idea
-.project
-.classpath
-*.launch
-.settings/
-
-# Temp
-gitignore
-
-# System Files
-.DS_Store
-Thumbs.db
